@@ -10,6 +10,7 @@ Graduate:
 <br>	
 <a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusGT2017.pdf">Introduction to Game Theory</a>
 <br>	
+<hr>
 Undergraduate:
 <br>
 <a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusIntroCPfall2018.pdf">Introduction to Comparative Politics</a>
