@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 ---
 
@@ -55,7 +55,7 @@ Political Science</i>, Vol. 58, No. 4: 936-951, 2014 <br>
 <br>
 <a href="http://fcantu.net/content/1.pages/4.research/PyG.pdf">Methodological
 Considerations for Students of Mexican Legislative Politics: Selection Bias in Roll-Call
-Publications.</a> Política y Gobierno, Vol. XXI, No. 1, 2014 (with Scott Desposato and Eric Magar) [<a
+Publications.</a> <i>Política y Gobierno</i>, Vol. XXI, No. 1, 2014 (with Scott Desposato and Eric Magar) [<a
 href="http://fcantu.net/content/1.pages/3.research/PyGenglish.pdf">English
 version</a>]<br>
 <br>
