@@ -6,19 +6,18 @@ permalink: /teaching/
 <br>
 Graduate:
 <br>
-<a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusCE2016.pdf">Seminar in Comparative Elections</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/SyllabusCE2016.pdf">Seminar in Comparative Elections</a>
 <br>	
-<a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusGT2017.pdf">Introduction to Game Theory</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/SyllabusGT2017.pdf">Introduction to Game Theory</a>
 <br>	
 <hr>
 Undergraduate:
 <br>
-<a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusIntroCPfall2018.pdf">Introduction to Comparative Politics</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/IntroCPFall2019.pdf">Introduction to Comparative Politics</a>
 <br>	
-<a href="http://fcantu.net/content/1.pages/3.teaching/UGelectionsFall2017.pdf">Comparative Elections</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/UGelectionsFall2019.pdf">Comparative Elections</a>
 <br>	
-<a href="http://fcantu.net/content/1.pages/3.teaching/MexPolSpring2018.pdf">Politics of Mexico</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/MexPolSpring2018.pdf">Politics of Mexico</a>
 <br>	
-<a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusLApolitics2014.pdf">Latin American Politics</a> 
-<br>		
-<a href="http://fcantu.net/content/1.pages/3.teaching/SouthernCone.pdf">Politics in the Southern Cone</a>
+<a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/Syllabi/SyllabusLApolitics2014Modified.pdf">Latin American Politics</a> 
+
