@@ -1,3 +1,10 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+order: 4
+---
+
 University of Houston
 Department of Political Science
 3551 Cullen Boulevard Room 429
