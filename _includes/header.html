@@ -6,13 +6,11 @@
 
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
-        {% assign sorted_pages = site.pages | sort:"order" %}
-        {% for page in sorted.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-
+        <a class="page-link" href="/">Francisco Cantú</a>
+        <a class="page-link" href="/cv">CV</a>
+        <a class="page-link" href="/research">Research</a>
+        <a class="page-link" href="/teaching">Teaching</a>
+        <a class="page-link" href="/contact">Contact</a>
       </div>
     </nav>
 
