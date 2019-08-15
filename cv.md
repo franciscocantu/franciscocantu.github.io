@@ -7,13 +7,10 @@ order: 2
 
 
 <br/>
-Here it is! <a href="/CantuCV.pdf" target="blank">CV</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+<a href="/CantuCV.pdf" target="blank">CV</a>
 
 <br/>
 <hr/>
 <br/>
 
 
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
