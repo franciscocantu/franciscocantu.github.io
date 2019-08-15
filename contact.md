@@ -5,12 +5,12 @@ permalink: /contact/
 order: 4
 ---
 
-University of Houston
-Department of Political Science
-3551 Cullen Boulevard Room 429
-Houston, TX 77204-3011
-
-Voice: (760) 809-2057
-Fax: (713) 743-3927
-
+University of Houston<br>
+Department of Political Science<br>
+3551 Cullen Boulevard Room 429<br>
+Houston, TX 77204-3011<br>
+<br>
+Voice: (760) 809-2057<br>
+Fax: (713) 743-3927<br>
+<br>
 fcantu10@uh.edu
