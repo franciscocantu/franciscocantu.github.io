@@ -1,2 +1,28 @@
+# Site settings
 name: Francisco Cantú - Political Science
+email: fcantu10@uh.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Academic website.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+
+# Build settings
 markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+
+collections:
+  cv:
+    output: true
+    permalink: /cv/:path/
+  research:
+    output: true
+    permalink: /research/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  contact:
+    output: true
+    permalink: /contact/:path/
