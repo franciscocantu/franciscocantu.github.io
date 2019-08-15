@@ -1,3 +1,9 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
+
 Graduate:	<br>
 	<a href="http://fcantu.net/content/1.pages/3.teaching/SyllabusCE2016.pdf">Seminar in Comparative Elections</a><br>
 	
