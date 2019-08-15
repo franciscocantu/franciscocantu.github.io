@@ -7,7 +7,7 @@ order: 2
 
 
 <br/>
-Here it is! <a href="https://github.com/franciscocantu/franciscocantu.github.io/raw/master/CantuCV.pdf" target="blank">CV</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Here it is! <a href="/CantuCV.pdf" target="blank">CV</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
 <br/>
 <hr/>
