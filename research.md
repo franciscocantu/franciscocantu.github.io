@@ -4,13 +4,22 @@ title: Research
 permalink: /research/
 order: 3
 ---
-
+<br>
+<a href="https://doi.org/10.1017/S0003055419000285">The Fingerprints of Fraud: Evidence from Mexico’s 1988 Presidential
+Election.</a> <i>American Political Science Review</i>,
+Vol. 113, No. 3: 710-726, 2019 <a
+href="/Papers/APSR-1988.pdf">[Ungated
+version]</a><br>
 <br>
 <a href="https://doi.org/10.1086/702945">Groceries
 for Votes: The Electoral Returns of Vote-Buying.</a> <i>Journal of Politics</i>,
 Vol. 81, No. 3: 790-804, 2019 <a
 href="/Papers/JoP - VoteBuying.pdf">[Ungated
 version]</a><br>
+<br>
+<a href="https://doi.org/10.1177/1065912919832374">Waiting to Vote in the 2016 Presidential Election: Evidence from a
+Multi-county Study.</a> <i>Political Research Quarterly</i>, forthcoming (with Robert
+Stein and others)
 <br>
 <a
 href="https://doi.org/10.1093/pa/gsy009">The
