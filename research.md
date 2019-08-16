@@ -21,6 +21,11 @@ version]</a><br>
 Multi-county Study.</a> <i>Political Research Quarterly</i>, forthcoming (with Robert
 Stein and others)<br>
 <br>
+<a href="/Papers/PP - Europe.pdf">Determinants
+of legislative committee membership in proportional representation systems.</a>
+<i>Party Politics</i>, Vol. 24, No. 5: 524-535, 2018 (with Pedro Riera)
+<br>
+<br>
 <a
 href="https://doi.org/10.1093/pa/gsy009">The
 Politics of Committee Chairs Assignment in Ireland and Spain.</a> <i>Parliamentary
@@ -33,11 +38,6 @@ href="https://doi.org/10.1017/S1049096518000550">Pedagogical
 Value of Polling Place Observation By Students.</a> <i>PS: Political Science
 &; Politics</i>, Vol. 51, No. 4: 831-837, 2018 (with Christopher B. Mann and
 others) <br>
-<br>
-<a href="/Papers/PP - Europe.pdf">Determinants
-of legislative committee membership in proportional representation systems.</a>
-<i>Party Politics</i>, forthcoming (with Pedro Riera)
-<br>
 <br>
 <a href="https://doi.org/10.1089/elj.2016.0385">Poll
 Worker Recruitment: Evidence from the Mexican Case.</a> <i>Election Law Journal</i>,
