@@ -19,7 +19,7 @@ version]</a><br>
 <br>
 <a href="https://doi.org/10.1177/1065912919832374">Waiting to Vote in the 2016 Presidential Election: Evidence from a
 Multi-county Study.</a> <i>Political Research Quarterly</i>, forthcoming (with Robert
-Stein and others)
+Stein and others)<br>
 <br>
 <a
 href="https://doi.org/10.1093/pa/gsy009">The
