@@ -9,13 +9,13 @@ Graduate:
 <br>
 <a href="/Syllabi/SyllabusCE2016.pdf">Seminar in Comparative Elections</a>
 <br>	
-<a href="/Syllabi/SyllabusGT2017.pdf">Introduction to Game Theory</a>
+<a href="/Syllabi/SyllabusGT2019.pdf">Introduction to Game Theory</a>
 <br>	
 <hr>
 <br>
 Undergraduate:
 <br>
-<a href="/Syllabi/IntroCPFall2019.pdf">Introduction to Comparative Politics</a>
+<a href="/Syllabi/SyllabusIntroCPFall2019.pdf">Introduction to Comparative Politics</a>
 <br>	
 <a href="/Syllabi/UGelectionsFall2019.pdf">Comparative Elections</a>
 <br>	
