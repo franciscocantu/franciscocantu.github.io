@@ -12,6 +12,7 @@ Graduate:
 <a href="/Syllabi/SyllabusGT2017.pdf">Introduction to Game Theory</a>
 <br>	
 <hr>
+<br>
 Undergraduate:
 <br>
 <a href="/Syllabi/IntroCPFall2019.pdf">Introduction to Comparative Politics</a>
