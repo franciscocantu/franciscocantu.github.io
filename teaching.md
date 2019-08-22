@@ -15,7 +15,7 @@ Graduate:
 <br>
 Undergraduate:
 <br>
-<a href="/Syllabi/SyllabusIntroCPFall2019.pdf">Introduction to Comparative Politics</a>
+<a href="/Syllabi/SyllabusIntroCPfall2019.pdf">Introduction to Comparative Politics</a>
 <br>	
 <a href="/Syllabi/UGelectionsFall2019.pdf">Comparative Elections</a>
 <br>	
