@@ -84,13 +84,12 @@ Sebastián Saiegh) <br>
 <br>
 Selected Working Papers:
 <br>
-<a href="/Syllabi/SyllabusIntroCPfall2019.pdf">Right On Time: An Electoral Audit for the Publication of Vote Results.</a>  (with Leonardo Antenangeli)<br>
+<a href="/Papers/TimeAudits_RevJuly2019.pdf">Right On Time: An Electoral Audit for the Publication of Vote Results.</a>  (with Leonardo Antenangeli)<br>
 <br>	
-<a href="/Syllabi/UGelectionsFall2019.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
+<a href="/Papers/PA_MTFC_LearningToSee.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
 <br>	
-<a href="/Syllabi/MexPolSpring2018.pdf">The Nationalization of the Mexican Party System</a> (with Paul Johnson)<br>
-<br>	
-<a href="/Syllabi/SyllabusLApolitics2014Modified.pdf">The Between and Within Effect of Election Polls: Experimental Evidence from Mexico's 2018 Presidential Campaign</a> (with Javier Marquez)<br>
+<a href="/Papers/PollsEffects_APSA.pdf">The Between and Within Effect of Election Polls: Experimental Evidence from Mexico's 2018 Presidential Campaign</a> (with Javier Marquez)<br>
 <br>
 Partisan Hearts and Guts: Negative Partisanship in Latin America (with Agustina Haime)<br>
-<br>
+<br>	
+<a href="/Papers/MexPartySystemNationalization.pdf">The Nationalization of the Mexican Party System</a> (with Paul Johnson)
