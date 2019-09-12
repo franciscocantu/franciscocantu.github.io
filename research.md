@@ -80,3 +80,17 @@ Democracy? An Analysis of Argentina's Infamous Decade using Supervised Machine
 Learning.</a> <i>Political Analysis</i>, Vol. 19, No. 4: 409-433, 2011 (with
 Sebastián Saiegh) <br>
 <br>
+<hr>
+<br>
+Selected Working Papers:
+<br>
+<a href="/Syllabi/SyllabusIntroCPfall2019.pdf">Right On Time: An Electoral Audit for the Publication of Vote Results.</a>  (with Leonardo Antenangeli)<br>
+<br>	
+<a href="/Syllabi/UGelectionsFall2019.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
+<br>	
+<a href="/Syllabi/MexPolSpring2018.pdf">The Nationalization of the Mexican Party System</a> (with Paul Johnson)<br>
+<br>	
+<a href="/Syllabi/SyllabusLApolitics2014Modified.pdf">The Between and Within Effect of Election Polls: Experimental Evidence from Mexico's 2018 Presidential Campaign</a> (with Javier Marquez)<br>
+<br>
+Partisan Hearts and Guts: Negative Partisanship in Latin America (with Agustina Haime)<br>
+<br>
