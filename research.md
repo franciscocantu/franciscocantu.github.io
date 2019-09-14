@@ -84,6 +84,7 @@ Sebastián Saiegh) <br>
 <br>
 Selected Working Papers:
 <br>
+<br>
 <a href="/Papers/TimeAudits_RevJuly2019.pdf">Right On Time: An Electoral Audit for the Publication of Vote Results.</a>  (with Leonardo Antenangeli)<br>
 <br>	
 <a href="/Papers/PA_MTFC_LearningToSee.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
