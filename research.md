@@ -42,7 +42,7 @@ others) <br>
 <a href="https://doi.org/10.1089/elj.2016.0385">Poll
 Worker Recruitment: Evidence from the Mexican Case.</a> <i>Election Law Journal</i>,
 Vol. 16, No.4: 495-510, 2017 (with Sandra Ley) <a
-href="/Papers/JEL - PollWorkers.pdf">[Ungated
+href="/Papers/JEL-PollWorkers.pdf">[Ungated
 version]</a><br>
 <br>
 <a href="http://dx.doi.org/10.4067/s0718-090x2017000200493">Mexico: The
