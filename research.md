@@ -5,6 +5,11 @@ permalink: /research/
 order: 3
 ---
 <br>
+<a href="https://doi.org/10.1515/spp-2019-0001">Right On Time: An Electoral Audit for the Publication of Vote Results.</a> <i>Statistics, Politics and Policy</i>,
+Vol. 10, No. 2: 137–186, 2019 (with Leonardo Antenangeli) <a
+href="/Papers/TimeAudits_RevJuly2019.pdf">[Ungated
+version]</a><br>
+<br>
 <a href="https://doi.org/10.1017/S0003055419000285">The Fingerprints of Fraud: Evidence from Mexico’s 1988 Presidential
 Election.</a> <i>American Political Science Review</i>,
 Vol. 113, No. 3: 710-726, 2019 <a
@@ -84,8 +89,6 @@ Sebastián Saiegh) <br>
 <br>
 Selected Working Papers:
 <br>
-<br>
-<a href="/Papers/TimeAudits_RevJuly2019.pdf">Right On Time: An Electoral Audit for the Publication of Vote Results.</a>  (with Leonardo Antenangeli)<br>
 <br>	
 <a href="/Papers/PA_MTFC_LearningToSee_Rev01.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
 <br>	
