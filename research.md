@@ -97,13 +97,4 @@ Sebastián Saiegh) <br>
 <br>
 <hr>
 <br>
-Selected Working Papers:
-<br>
-<br>	
-<a href="/Papers/PA_MTFC_LearningToSee_Rev01.pdf">Learning to See: Visual Analysis for Social Science Data.</a>  (with Michelle Torres)<br>
-<br>	
-<a href="/Papers/PollsEffects_APSA.pdf">The Between and Within Effect of Election Polls: Experimental Evidence from Mexico's 2018 Presidential Campaign</a> (with Javier Marquez)<br>
-<br>
-Partisan Hearts and Guts: Negative Partisanship in Latin America (with Agustina Haime)<br>
-<br>	
-<a href="/Papers/MexPartySystemNationalization.pdf">The Nationalization of the Mexican Party System</a> (with Paul Johnson)
+
