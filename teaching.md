@@ -15,11 +15,11 @@ Graduate:
 <br>
 Undergraduate:
 <br>
-<a href="/Syllabi/SyllabusIntroCPfall2019.pdf">Introduction to Comparative Politics</a>
+<a href="/Syllabi/SyllabusIntroCPfall2020.pdf">Introduction to Comparative Politics</a>
 <br>	
 <a href="/Syllabi/UGelectionsFall2019.pdf">Comparative Elections</a>
 <br>	
-<a href="/Syllabi/MexPolSpring2018.pdf">Politics of Mexico</a>
+<a href="/Syllabi/MexPolFall2020.pdf">Politics of Mexico</a>
 <br>	
 <a href="/Syllabi/SyllabusLApolitics2014Modified.pdf">Latin American Politics</a> 
 
