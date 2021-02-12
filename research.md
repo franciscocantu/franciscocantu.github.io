@@ -8,7 +8,7 @@ order: 3
 <a href="/Papers/LearningToSee_Main.pdf">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
 forthcoming (with Michelle Torres)<br>
 <br>
-<a href="/Papers/PAG_final_version.pdf">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
+<a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
 forthcoming (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <br>
 <a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No.2: 1-26, 2020 (with Paul Johnson) <a
