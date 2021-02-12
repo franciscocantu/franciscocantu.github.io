@@ -5,7 +5,7 @@ permalink: /research/
 order: 3
 ---
 <br>
-<a href="/Papers/LearningToSee_Main.pdf">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
+<a href="/Papers/LearningToSee_Final.pdf">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
 forthcoming (with Michelle Torres)<br>
 <br>
 <a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
