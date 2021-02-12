@@ -11,7 +11,7 @@ forthcoming (with Michelle Torres)<br>
 <a href="/Papers/PAG_final_version.pdf">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
 forthcoming (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <br>
-<a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No.2: 1-26, 2020 (with Paul Johnson)<a
+<a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No.2: 1-26, 2020 (with Paul Johnson) <a
 href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1038">[English
 version]</a><br>
 <br>
