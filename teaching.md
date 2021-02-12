@@ -7,7 +7,7 @@ order: 4
 <br>
 Graduate:
 <br>
-<a href="/Syllabi/SyllabusCE2016.pdf">Seminar in Comparative Elections</a>
+<a href="/Syllabi/SyllabusSCE_spring2021.pdf">Seminar in Comparative Elections</a>
 <br>	
 <a href="/Syllabi/SyllabusGT2019.pdf">Introduction to Game Theory</a>
 <br>	
