@@ -37,7 +37,7 @@ href="/Papers/JoP - VoteBuying.pdf">[Ungated
 version]</a><br>
 <br>
 <a href="/Papers/PP - Europe.pdf">Determinants
-of legislative committee membership in proportional representation systems.</a>
+of Legislative Committee Membership in Proportional Representation Systems.</a>
 <i>Party Politics</i>, Vol. 24, No. 5: 524-535, 2018 (with Pedro Riera)
 <br>
 <br>
@@ -65,7 +65,7 @@ Decline of Institutional Trust.</a> <i>Revista de Ciencia Política</i>,
 Vol. 37, No. 2: 493-517, 2017 (with Verónica Hoyo)<br>
 <br>
 <a href="/Papers/ES-Colombia.pdf">Endogenous
-Ballot Types: The selection of open and closed lists in Colombia’s legislative
+Ballot Types: The Selection of Open and Closed Lists in Colombia’s Legislative
 elections.</a> <i>Electoral Studies</i>, Vol. 49: 136-154, 2017 (with Susan Achury and Margarita Ramirez)<br>
 <br>
 <a href="/Papers/IJPOR-Pollsters.pdf">The Utility of
