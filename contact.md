@@ -4,7 +4,7 @@ title: Contact Information
 permalink: /contact/
 order: 5
 ---
-<b>Contact information:</b><br>
+<br>
 University of Houston<br>
 Department of Political Science<br>
 3551 Cullen Boulevard Room 429<br>
