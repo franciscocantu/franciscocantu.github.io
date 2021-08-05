@@ -5,13 +5,22 @@ permalink: /research/
 order: 3
 ---
 <br>
-<a href="/Papers/LearningToSee_Final.pdf">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
-forthcoming (with Michelle Torres)<br>
+<a href="https://doi.org/10.1017/pan.2021.9">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
+forthcoming (with Michelle Torres) <a href="/Papers/LearningToSee_Final.pdf">[Ungated version]</a><br>
+<br>
+<a href="/Papers/Public_distrust_BJPS.pdf">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
+forthcoming (with Victor Hernández-Huerta) 
+<br>
+<a href="https://doi.org/10.1016/j.electstud.2021.102379">The Effects of Election Polls in Mexico's 2018 Presidential Campaign.</a> <i>Electoral Studies</i>,
+forthcoming (with Javier Márquez) 
+<br>
+<a href="https://doi.org/10.1080/17457289.2021.1924740">Partisan Cues and Perceived Risks.</a> <i>Journal of Elections, Public Opinion and Parties</i>,
+Vol. 31, Sup. 1:82-95 (with Natalia Aruguete, Ernesto Calvo, Sandra Ley, Carlos Scartascini, and Tiago Ventura) 
 <br>
 <a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
 forthcoming (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <br>
-<a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No.2: 1-26, 2020 (with Paul Johnson) <a
+<a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No. 2: 1-26, 2020 (with Paul Johnson) <a
 href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1038">[English
 version]</a><br>
 <br>
@@ -82,9 +91,9 @@ Political Science</i>, Vol. 58, No. 4: 936-951, 2014 <br>
 <br>
 <a href="/Papers/PyG-Bias.pdf">Methodological
 Considerations for Students of Mexican Legislative Politics: Selection Bias in Roll-Call
-Publications.</a> <i>Política y Gobierno</i>, Vol. XXI, No. 1, 2014 (with Scott Desposato and Eric Magar) [<a
-href="/Papers/PyGenglish.pdf">English
-version</a>]<br>
+Publications.</a> <i>Política y Gobierno</i>, Vol. XXI, No. 1, 2014 (with Scott Desposato and Eric Magar)<a
+href="/Papers/PyGenglish.pdf">[English
+version]</a><br>
 <br>
 <a href="/Papers/JPLA-FEDMEX.pdf">The Rise of
 Federal Politics in Mexico's Legislative Branch.</a> <i>Journal of Politics in
