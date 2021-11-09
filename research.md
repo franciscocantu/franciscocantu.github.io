@@ -8,8 +8,8 @@ order: 3
 <a href="https://doi.org/10.1017/pan.2021.9">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
 forthcoming (with Michelle Torres) <a href="/Papers/LearningToSee_Final.pdf">[Ungated version]</a><br>
 <br>
-<a href="/Papers/Public_distrust_BJPS.pdf">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
-forthcoming (with Victor Hernández-Huerta) <br>
+<a href="https://doi.org/10.1017/S0007123421000399">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
+forthcoming (with Victor Hernández-Huerta) <a href="/Papers/Public_distrust_BJPS.pdf">[Ungated version]</a><br>
 <br>
 <a href="https://doi.org/10.1016/j.electstud.2021.102379">The Effects of Election Polls in Mexico's 2018 Presidential Campaign.</a> <i>Electoral Studies</i>,
 Vol. 73: , 2021 (with Javier Márquez) <br>
