@@ -23,8 +23,8 @@ forthcoming (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <a href="https://doi.org/10.1080/17457289.2021.1924740">Partisan Cues and Perceived Risks.</a> <i>Journal of Elections, Public Opinion and Parties</i>,
 Vol. 31, Sup. 1:82-95 (with Natalia Aruguete, Ernesto Calvo, Sandra Ley, Carlos Scartascini, and Tiago Ventura)<br>
 <br>
-<a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1029">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No. 2: 1-26, 2020 (with Paul Johnson) <a
-href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1276/1038">[English
+<a href="http://www.scielo.org.mx/pdf/pyg/v27n2/1665-2037-pyg-27-02-ePYG1276.pdf">The Nationalization of the Mexican Party System.</a> <i>Política y Gobierno</i>, Vol. 23, No. 2: 1-26, 2020 (with Paul Johnson) <a
+href="http://www.scielo.org.mx/pdf/pyg/v27n2/1665-2037-pyg-27-02-ePYG1276-en.pdf">[English
 version]</a><br>
 <br>
 <a href="https://doi.org/10.1177/1065912919832374">Waiting to Vote in the 2016 Presidential Election: Evidence from a
