@@ -7,10 +7,6 @@ order: 3
 <br>
 <a href="https://doi.org/10.1017/S0007123421000399">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
 forthcoming (with Victor Hernández-Huerta) <a href="/Papers/Public_distrust_BJPS.pdf">[Ungated version]</a><br>
-<br>
-<a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
-forthcoming (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
-<br>
 <a href="https://doi.org/10.1017/pls.2022.6">Disgust Sensitivity and Support for Immigration Policy across Five Nations.</a> <i>Politics and the Life Sciences</i>, forthcoming (with Scott Clifford, Cengiz Erisen, and Dane G. Wendell)<br>
 <br>
 <a href="https://doi.org/10.1017/pan.2021.9">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
@@ -18,6 +14,9 @@ Vol. 30, No. 1: 113-131, 2022 (with Michelle Torres) <a href="/Papers/LearningTo
 <br>
 <a href="doi.org/10.1017/lap.2021.54">Negative Partisanship in Latin America.</a> <i>Latin American Politics and Society</i>,
 Vol. 64, No. 1: 72-92, 2022 (with Agustina Haime)<br>
+<br>
+<a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
+Vol. 18, No. 1: 158-182, 2022 (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <br>
 <a href="https://doi.org/10.1016/j.electstud.2021.102379">The Effects of Election Polls in Mexico's 2018 Presidential Campaign.</a> <i>Electoral Studies</i>,
 Vol. 73, 2021 (with Javier Márquez)<br>
