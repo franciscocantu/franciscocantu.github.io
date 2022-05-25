@@ -7,6 +7,7 @@ order: 3
 <br>
 <a href="https://doi.org/10.1017/S0007123421000399">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
 forthcoming (with Victor Hernández-Huerta) <a href="/Papers/Public_distrust_BJPS.pdf">[Ungated version]</a><br>
+<br>
 <a href="https://doi.org/10.1017/pls.2022.6">Disgust Sensitivity and Support for Immigration Policy across Five Nations.</a> <i>Politics and the Life Sciences</i>, forthcoming (with Scott Clifford, Cengiz Erisen, and Dane G. Wendell)<br>
 <br>
 <a href="https://doi.org/10.1017/pan.2021.9">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
