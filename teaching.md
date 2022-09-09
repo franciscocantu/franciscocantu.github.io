@@ -11,7 +11,7 @@ Graduate:
 <br>	
 <a href="/Syllabi/SyllabusGT2019.pdf">Introduction to Game Theory</a>
 <br>	
-<a href="/Syllabi/SyllabusIC3JM.pdf">States, Regimes, and Institutions (Carlos III-Juan March Institute, Fall 2022)</a>
+<a href="/Syllabi/SyllabusC3JMI.pdf">States, Regimes, and Institutions</a> (Carlos III-Juan March Institute, Fall 2022)
 <br>	
 <hr>
 <br>
