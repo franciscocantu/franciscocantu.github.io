@@ -24,4 +24,4 @@ Undergraduate:
 <a href="/Syllabi/MexPolFall2020.pdf">Politics of Mexico</a>
 <br>	
 <a href="/Syllabi/SyllabusLApolitics2014Modified.pdf">Latin American Politics</a> 
-
+<br>	
