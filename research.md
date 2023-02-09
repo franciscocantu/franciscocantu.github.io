@@ -5,12 +5,12 @@ permalink: /research/
 order: 3
 ---
 <br>
-<a href="https://doi.org/10.1017/S0007123421000399">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
-forthcoming (with Victor Hernández-Huerta) <a href="/Papers/Public_distrust_BJPS.pdf">[Ungated version]</a><br>
-<br>
 <a href="https://doi.org/10.1017/pls.2022.6">Disgust Sensitivity and Support for Immigration Policy across Five Nations.</a> <i>Politics and the Life Sciences</i>, forthcoming (with Scott Clifford, Cengiz Erisen, and Dane G. Wendell)<br>
 <br>
-<a href="https://doi.org/10.1017/S1755773922000248">Electoral Systems and Ideological Voting.</a> <i>European Political Science Review</i>, forthcoming (with Pedro Riera)<br>
+<a href="https://doi.org/10.1017/S0007123421000399">Public Distrust in Challenged Elections: Evidence from Latin America.</a> <i>British Journal of Political Science</i>,
+Vol. 52, No. 4: 1923-1930, 2022 (with Victor Hernández-Huerta) <a href="/Papers/Public_distrust_BJPS.pdf">[Ungated version]</a><br>
+<br>
+<a href="https://doi.org/10.1017/S1755773922000248">Electoral Systems and Ideological Voting.</a> <i>European Political Science Review</i>, Vol. 14, No. 4: 463-481, 2022 (with Pedro Riera)<br>
 <br>
 <a href="https://doi.org/10.1017/pan.2021.9">Learning to See: Visual Analysis for Social Science Data.</a> <i>Political Analysis</i>,
 Vol. 30, No. 1: 113-131, 2022 (with Michelle Torres) <a href="/Papers/LearningToSee_Final.pdf">[Ungated version]</a><br>
@@ -20,6 +20,8 @@ Vol. 64, No. 1: 72-92, 2022 (with Agustina Haime)<br>
 <br>
 <a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
 Vol. 18, No. 1: 158-182, 2022 (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
+<br>
+<a href="https://doi.org/10.1017/S1468109922000342">Book Review: The Dictator’s Dilemma at the Ballot Box. By Masaaki Higashijima..</a> <i>Japanese Journal of Political Science</i>, 2022 <br>
 <br>
 <a href="https://doi.org/10.1016/j.electstud.2021.102379">The Effects of Election Polls in Mexico's 2018 Presidential Campaign.</a> <i>Electoral Studies</i>,
 Vol. 73, 2021 (with Javier Márquez)<br>
