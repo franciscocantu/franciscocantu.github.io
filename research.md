@@ -21,7 +21,7 @@ Vol. 64, No. 1: 72-92, 2022 (with Agustina Haime)<br>
 <a href="https://doi.org/10.1017/S1743923X20000288">Gender and Family Ties in Latin American Legislatures.</a> <i>Politics & Gender</i>,
 Vol. 18, No. 1: 158-182, 2022 (with Leslie Schwindt-Bayer and Agustín Vallejo)<br>
 <br>
-<a href="https://doi.org/10.1017/S1468109922000342">Book Review: The Dictator’s Dilemma at the Ballot Box. By Masaaki Higashijima..</a> <i>Japanese Journal of Political Science</i>, 2022 <br>
+<a href="https://doi.org/10.1017/S1468109922000342">Book Review: The Dictator’s Dilemma at the Ballot Box. By Masaaki Higashijima.</a> <i>Japanese Journal of Political Science</i>, 2022 <br>
 <br>
 <a href="https://doi.org/10.1016/j.electstud.2021.102379">The Effects of Election Polls in Mexico's 2018 Presidential Campaign.</a> <i>Electoral Studies</i>,
 Vol. 73, 2021 (with Javier Márquez)<br>
